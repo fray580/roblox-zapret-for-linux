@@ -23,7 +23,7 @@ cd roblox-zapret-for-linux/zapret-discord-youtube-linux
 если все было **сделано верно** то будет такой вывод:
 <img src="8.png">
 **Вот и все!**
------
+------------------------------------------------------------------------
 
 ### Весь порядок команд:
 - git clone https://github.com/fray580/roblox-zapret-for-linux.git
