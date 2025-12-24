@@ -10,15 +10,19 @@ cd roblox-zapret-for-linux/zapret-discord-youtube-linux
 ### Обновляем репозиторий
 <img src="5.png">
 ----
+
 выбираем **./general_alt6.bat** (другие **могут** не работать)
 <img src ="6.png"> 
 ---
+
 выбираем **any**
 <img src="7.png">
 ---
+
 если все было **сделано верно** то будет такой вывод:
 <img src="8.png">
 **Вот и все!**
+---
 
 ### Весь порядок команд:
 - git clone https://github.com/fray580/roblox-zapret-for-linux.git
