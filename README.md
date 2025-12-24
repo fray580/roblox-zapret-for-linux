@@ -33,4 +33,4 @@ cd roblox-zapret-for-linux/zapret-discord-youtube-linux
 - y
 - 2
 - 1
- **наслаждаемся роблоксом
+- **наслаждаемся роблоксом**
