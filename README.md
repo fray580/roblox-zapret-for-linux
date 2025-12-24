@@ -27,7 +27,7 @@ cd roblox-zapret-for-linux/zapret-discord-youtube-linux
 
 ### Весь порядок команд:
 - git clone https://github.com/fray580/roblox-zapret-for-linux.git
-- cd roblox-zapret-for-linux/zapret-discord-youtube-linux
+- cd roblox-zapret-for-linux
 - ./main_script.sh
 - *пароль sudo*
 - y
