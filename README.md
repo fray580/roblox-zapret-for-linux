@@ -3,7 +3,7 @@
 ###  [оригинальный запрет](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) был модифицирован мною, все что от вас требуется:
 ```
 git clone https://github.com/fray580/roblox-zapret-for-linux.git
-cd roblox-zapret-for-linux/zapret-discord-youtube-linux
+cd roblox-zapret-for-linux/
 ./main_script.sh
 ```
 ------------------------------------------------------------------------
